@@ -2,8 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package komento;
+package komento.yhdenJoukonKomennot;
 
+import komento.Komento;
 import ohtu.intjoukkosovellus.IO;
 import ohtu.intjoukkosovellus.IntJoukko;
 

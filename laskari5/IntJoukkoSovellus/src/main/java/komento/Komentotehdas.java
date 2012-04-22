@@ -4,6 +4,13 @@
  */
 package komento;
 
+import komento.kahdenJoukonOperaatiot.Erotus;
+import komento.kahdenJoukonOperaatiot.Leikkaus;
+import komento.kahdenJoukonOperaatiot.Yhdiste;
+import komento.yhdenJoukonKomennot.Poista;
+import komento.yhdenJoukonKomennot.Lisaa;
+import komento.yhdenJoukonKomennot.Tulosta;
+import komento.yhdenJoukonKomennot.Kuuluu;
 import java.util.HashMap;
 import ohtu.intjoukkosovellus.IO;
 import ohtu.intjoukkosovellus.IntJoukko;
